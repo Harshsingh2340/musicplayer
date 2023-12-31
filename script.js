@@ -2,19 +2,19 @@ console.log("Welcome to Spotify");
 
 // Initialize the variables
 let songIndex = 0;
-let audioElement = new Audio('songs/1.mp3');
+let audioElement = new Audio('1.mp3');
 let masterPlay = document.getElementById('masterPlay');
 let myProgressBar = document.getElementById('myProgressBar');
 let gif = document.getElementById('gif');
 let masterSongName = document.getElementById('masterSongName');
 let songItem = Array.from(document.getElementsByClassName('songItemPlay'));
 let songs = [
-  { songName: 'Salam-e-Ishq', filePath: 'songs/1.mp3', coverPath: 'covers/1.webp' },
-  { songName: 'do not', filePath: 'songs/2.mp3', coverPath: 'covers/2.webp' },
-  { songName: 'check', filePath: 'songs/3.mp3', coverPath: 'covers/3.webp' },
-  { songName: 'assq', filePath: 'songs/4.mp3', coverPath: 'covers/4.webp' },
-  { songName: 'Salaq', filePath: 'songs/5.mp3', coverPath: 'covers/5.webp' },
-  { songName: 'Salad', filePath: 'songs/6.mp3', coverPath: 'covers/6.webp' }
+  { songName: 'Salam-e-Ishq', filePath: '1.mp3', coverPath: '1.webp' },
+  { songName: 'do not', filePath: '2.mp3', coverPath: '2.webp' },
+  { songName: 'check', filePath: '3.mp3', coverPath: '3.webp' },
+  { songName: 'assq', filePath: '4.mp3', coverPath: '4.webp' },
+  { songName: 'Salaq', filePath: '5.mp3', coverPath: '5.webp' },
+  { songName: 'Salad', filePath: '6.mp3', coverPath: '6.webp' }
 ];
 
 songItem.forEach((element, index) => {
