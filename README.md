@@ -1,3 +1,4 @@
+![image](https://github.com/Harshsingh2340/musicplayer/assets/101996864/78fb54a5-ffe1-4304-b95c-3569c7ca2a87)
 
 🎵 **Music App - HTML, CSS, JavaScript**
 
