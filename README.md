@@ -1,3 +1,5 @@
+![351](https://github.com/Harshsingh2340/musicplayer/assets/101996864/ae10e4d8-1303-4604-8fbd-6956a9d75660)
+
 🎵 **Music App - HTML, CSS, JavaScript**
 
 Explore the world of music with this responsive and stylish Music App created using HTML, CSS, and JavaScript. Dive into an immersive audio experience with features like play/pause controls, a dynamic progress bar, and a curated playlist.
