@@ -1,4 +1,3 @@
-![351](https://github.com/Harshsingh2340/musicplayer/assets/101996864/ae10e4d8-1303-4604-8fbd-6956a9d75660)
 
 🎵 **Music App - HTML, CSS, JavaScript**
 
